@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is Nicholas Tillmann and am currently a CS student a at the University of Pittsburgh 🎓
+My name is Nicholas Tillmann and am currently a CS student a at the University of Pittsburgh 🎓<br/>
 Feel free to browse some cool repositories below!<br/>
-[LinkedIn](https://www.quora.com) [website](https://nicktill.github.io) or [resume](https://nicktill.github.io/resume.pdf)
-📫 Contact me: ntillmann1439@gmail.com
-🌱 Currently looking to explore web3 technologies
+[LinkedIn](https://www.quora.com) [website](https://nicktill.github.io) or [resume](https://nicktill.github.io/resume.pdf)<br/>
+📫 Contact me: ntillmann1439@gmail.com<br/>
+🌱 Currently looking to explore web3 technologies<br/>
 <!--
 **NickTill/NickTill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
