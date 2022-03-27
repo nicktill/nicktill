@@ -1,7 +1,7 @@
 ### Hi there 👋
 CS Student at the University of Pittsburgh 🎓<br/>
-🧑‍💼[LinkedIn](https://www.linkedin.com/in/nicholas-tillmann-4647b7187/) 🌐[Website](https://nicktill.github.io) 📄[Resume]
-💼SWE Intern @IBM, Previously @Leidos
+🧑‍💼[LinkedIn](https://www.linkedin.com/in/nicholas-tillmann-4647b7187/) 🌐[Website](https://nicktill.github.io) 📄[Resume]<br/>
+💼SWE Intern @IBM, Previously @Leidos<br/>
 (https://nicktill.github.io/resume.pdf)<br/>
 📫 Contact me: ntillmann1439@gmail.com<br/>
 <!--
