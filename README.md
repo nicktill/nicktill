@@ -1,7 +1,7 @@
 ### Hi there 👋
 CS Student at the University of Pittsburgh 🎓<br/>
 🧑‍💼[LinkedIn](https://www.linkedin.com/in/nicholas-tillmann-4647b7187/) 🌐[Website](https://nicktill.github.io) 📄[Resume](https://nicktill.github.io/resume.pdf)<br/>
-💼SWE Intern @IBM, Previously @Leidos<br/>
+💼Incoming SWE Intern @IBM, Previously @Leidos<br/>
 📫 Contact me: ntillmann1439@gmail.com<br/>
 <!--
 **NickTill/NickTill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
