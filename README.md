@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nicholas Tillmann and am currently a CS student a at the University of Pittsburgh 🎓<br/>
+My name's Nicholas Tillmann, currently a CS Student @University of Pittsburgh 🎓<br/>
 Feel free to browse some cool repositories below!<br/>
 [LinkedIn](https://www.quora.com) [website](https://nicktill.github.io) or [resume](https://nicktill.github.io/resume.pdf)<br/>
 📫 Contact me: ntillmann1439@gmail.com<br/>
