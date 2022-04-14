@@ -1,6 +1,6 @@
 ### Hi there 👋
 CS Student at the University of Pittsburgh 🎓<br/>
-Expected Graduation May 2023
+Expected Graduation May 2023 <br/>
 🧑‍💼[LinkedIn](https://www.linkedin.com/in/nicholas-tillmann-4647b7187/) 🌐[Website](https://nicktill.github.io) 📄[Resume](https://nicktill.github.io/resume.pdf)<br/>
 💼Incoming SWE Intern @IBM, Previously @Leidos<br/>
 📫 Contact me: ntillmann1439@gmail.com<br/>
