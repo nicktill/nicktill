@@ -1,10 +1,10 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=nicktill&style=for-the-badge)<br>
 CS Student at the University of Pittsburgh '23 🎓<br/>
 🧑‍💼[LinkedIn](https://www.linkedin.com/in/nicholas-tillmann-4647b7187/) 🌐[Website](https://nicktill.github.io) 📄[Resume](https://nicktill.github.io/resume.pdf)<br/>
 💼Incoming SWE Intern @IBM, Previously @Leidos<br/>
 📫 Contact me: ntillmann1439@gmail.com | nit36@pitt.edu <br>
 🌱 Currently learning & exploring Web3 Technologies<br>
-![](https://komarev.com/ghpvc/?username=nicktill&style=for-the-badge)
 
 <!--
 **NickTill/NickTill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
