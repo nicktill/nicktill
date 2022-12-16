@@ -25,6 +25,6 @@ Here are some ideas to get you started:
  -->
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicktill&show_icons=true&hide=&count_private=true&theme=gradient" alt="GitHub stats" width=400 />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&theme=gradient" width=400  />
+<img src="https://github-readme-stats.vercel.app/api?username=nicktill&theme=gradient" alt="GitHub stats" width=400 />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&theme=gradient" width=400  />
 </p>
