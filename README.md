@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker)](https://github.com/nicktill/crypto-tracker&theme=transparent)
 [![cookbook](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cookbook)](https://github.com/nicktill/cookbook&theme=transparent)
 [![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp)](https://github.com/nicktill/NFT-dApp&theme=transparent)
-[![chat-app](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=chat-app)](https://github.com/nicktill/chat-app&theme=transparent)
+[![python-chatapp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=chat-app)](https://github.com/nicktill/chat-app)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicktill&show_icons=true&theme=transparent" alt="GitHub stats" width=400 />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true&theme=transparent" width=400  />
+<img src="https://github-readme-stats.vercel.app/api?username=nicktill&show_icons=true" alt="GitHub stats" width=400 />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true" width=400  />
 
