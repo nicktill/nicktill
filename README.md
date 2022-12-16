@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=400  />
 </p>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicktill)](https://github.com/nicktill/nicktill-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicktill&hide=language1&layout=compact)](https://github.com/nicktill/nicktill-readme-stats)
