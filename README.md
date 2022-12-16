@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Recent Projects/WIP => 
+### Recent Projects / WIP: 
 
 [![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=mini-twit)](https://github.com/nicktill/mini-twit&theme=transparent)
 [![grade-my-aid](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group)](https://github.com/nicktill/cs1530-finance-group&theme=transparent)
@@ -27,9 +27,6 @@ Recent Projects/WIP =>
 [![chat-app](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=chat-app)](https://github.com/nicktill/chat-app&theme=transparent)
 
 
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicktill&show_icons=true&theme=transparent" alt="GitHub stats" width=400 />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true&theme=transparent" width=400  />
-</p>
 
