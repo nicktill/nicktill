@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true&theme=transparent" width=400  />
 </p>
 
-[![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktil&repo=mini-twit)](https://github.com/nicktil/mini-twit)
+[![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktil&repo=mini-twit)](https://github.com/nicktill/mini-twit)
