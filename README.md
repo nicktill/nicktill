@@ -11,7 +11,7 @@ CS @University of Pittsburgh '23 🎓<br/>
 [![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
 [![cookbook](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cookbook&theme=dark)](https://github.com/nicktill/cookbook)
 [![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
-[![cost-of-living-calculator](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cost-living&theme=dark)](https://github.com/nicktill/cost-living)
+[![cost-of-living-calculator](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cost-of-living&theme=dark)](https://github.com/nicktill/cost-of-living)
 
 
 
