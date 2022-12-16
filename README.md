@@ -11,10 +11,12 @@ CS @University of Pittsburgh '23 🎓<br/>
 [![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
 [![cookbook](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cookbook&theme=dark)](https://github.com/nicktill/cookbook)
 [![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
+[![task-app](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/task-app)
+
 
 
 <p class="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicktill&show_icons=true&theme=dark" alt="GitHub stats" width=400 />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true&theme=dark" width=400  />
+<img src="https://github-readme-stats.vercel.app/api?username=nicktill&show_icons=true&theme=gradient" alt="GitHub stats" width=400 />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true&theme=gradient" width=400  />
 </p>
 
