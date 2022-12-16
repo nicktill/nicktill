@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 -->
 ### Recent Projects / WIP: 
 
-[![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=mini-twit)](https://github.com/nicktill/mini-twit&theme=transparent)
-[![grade-my-aid](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group)](https://github.com/nicktill/cs1530-finance-group&theme=transparent)
-[![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker)](https://github.com/nicktill/crypto-tracker&theme=transparent)
-[![cookbook](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cookbook)](https://github.com/nicktill/cookbook&theme=transparent)
-[![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp)](https://github.com/nicktill/NFT-dApp&theme=transparent)
-[![python-chatapp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=chat-app)](https://github.com/nicktill/chat-app)
+[![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=mini-twit&theme=dark)](https://github.com/nicktill/mini-twit)
+[![grade-my-aid](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group&theme=dark)](https://github.com/nicktill/cs1530-finance-group)
+[![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
+[![cookbook](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cookbook&theme=dark)](https://github.com/nicktill/cookbook)
+[![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
+[![python-chatapp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=chat-app&theme=dark)](https://github.com/nicktill/chat-app)
 
-
+<p class="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicktill&show_icons=true" alt="GitHub stats" width=400 />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true" width=400  />
+</p>
 
