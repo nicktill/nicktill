@@ -10,7 +10,7 @@ CS @University of Pittsburgh '23 🎓<br/>
 [![grade-my-aid](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group&theme=dark)](https://github.com/nicktill/cs1530-finance-group)
 [![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
 [![cookbook](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cookbook&theme=dark)](https://github.com/nicktill/cookbook)
-[![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-sd&theme=dark)](https://github.com/nicktill/NFT-dApp)
+[![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
 [![task-app](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=task-app&theme=dark)](https://github.com/nicktill/task-app)
 
 
