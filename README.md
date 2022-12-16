@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Recent Projects/WIP => 
+
+<p align="center">
+[![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=mini-twit)](https://github.com/nicktill/mini-twit)
+[![grade-my-aid](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group)](https://github.com/nicktill/cs1530-finance-group)
+[![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker)](https://github.com/nicktill/crypto-tracker)
+[![cookbook](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cookbook)](https://github.com/nicktill/cookbook)
+[![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp)](https://github.com/nicktill/NFT-dApp)
+[![chat-app](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=chat-app)](https://github.com/nicktill/chat-app)
+</p>
+
 
 
 <p align="center">
@@ -24,4 +35,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true&theme=transparent" width=400  />
 </p>
 
-[![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=mini-twit)](https://github.com/nicktill/mini-twit)
