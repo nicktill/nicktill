@@ -6,10 +6,10 @@ CS @University of Pittsburgh '23 🎓<br/>
 
 ### Recent Projects + WIP: 
 
-[![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=mini-twit&theme=dark)](https://github.com/nicktill/mini-twit)
+[![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
 [![grade-my-aid](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group&theme=dark)](https://github.com/nicktill/cs1530-finance-group)
 [![cost-of-living-calculator](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cost-of-living&theme=dark)](https://github.com/nicktill/cost-of-living)
-[![crypto-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
+[![mini-twit](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=mini-twit&theme=dark)](https://github.com/nicktill/mini-twit)
 [![NFT-dApp](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
 [![cookbook](https://github-readme-stats.vercel.app/api/pin/?username=nicktill&repo=cookbook&theme=dark)](https://github.com/nicktill/cookbook)
 
