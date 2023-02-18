@@ -8,7 +8,7 @@ CS @University of Pittsburgh '23 🎓<br/>
 
 [![crypto-tracker](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
 [![grade-my-aid](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group&theme=dark)](https://github.com/nicktill/cs1530-finance-group)
-[![translator-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=weather-app&theme=dark)](https://github.com/nicktill/weather-app)
+[![translator-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=translator-app&theme=dark)](https://github.com/nicktill/translator-app)
 [![mini-twit](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=mini-twit&theme=dark)](https://github.com/nicktill/mini-twit)
 [![NFT-dApp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
 [![cookbook](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=cookbook&theme=dark)](https://github.com/nicktill/cookbook)
