@@ -11,6 +11,8 @@ CS @University of Pittsburgh '23 🎓<br/>
 [![translator-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=translator-app&theme=dark)](https://github.com/nicktill/translator-app)
 [![portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=nicktill.github.io&theme=dark)](https://github.com/nicktill/nicktill.github.io)
 [![NFT-dApp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
+[![cookbook](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=cookbook&theme=dark)](https://github.com/nicktill/cookbook)
+
 
 <p class="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicktill&show_icons=true&theme=dark" alt="GitHub stats" width=400 />
