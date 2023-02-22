@@ -3,8 +3,10 @@
 CS @University of Pittsburgh '23 🎓<br/>
 🧑‍💼[LinkedIn](https://www.linkedin.com/in/nicholas-tillmann-4647b7187/) 🌐[Website](https://nicktill.github.io) 📄[Resume](https://nicktill.github.io/resume.pdf)<br/>
 📫 Contact me: ntillmann1439@gmail.com | nit36@pitt.edu <br>
+ <img width="1717" alt="preview" src="https://user-images.githubusercontent.com/57879193/220526426-ca121e7f-ac92-409c-83c0-07a3e15eab91.png">
 
-### Recent Projects + WIP: 
+
+### Recent Projects + WIP:
 
 [![crypto-tracker](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
 [![grade-my-aid](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group&theme=dark)](https://github.com/nicktill/cs1530-finance-group)
