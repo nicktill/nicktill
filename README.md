@@ -20,3 +20,7 @@ Pitt School of Computing & Information '23 🎓<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true&theme=dark" width=400  />
 </p>
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
