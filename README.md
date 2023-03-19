@@ -23,7 +23,7 @@ Pitt School of Computing & Information '23 🎓<br/>
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
 Python       1 hr 30 mins    ███████████████░░░░░░░░░░   60.46 %
 C            36 mins         ██████░░░░░░░░░░░░░░░░░░░   24.08 %
