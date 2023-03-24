@@ -10,8 +10,8 @@ Pitt School of Computing & Information '23 🎓<br/>
 [![YTRecap](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=ytrecap&theme=dark)](https://github.com/nicktill/ytrecap)
 [![crypto-tracker](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
 [![fincial-aid-grader](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group&theme=dark)](https://github.com/nicktill/cs1530-finance-group)
-[![translator-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=translator-app&theme=dark)](https://github.com/nicktill/translator-app)
 [![portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=nicktill.github.io&theme=dark)](https://github.com/nicktill/nicktill.github.io)
+[![translator-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=translator-app&theme=dark)](https://github.com/nicktill/translator-app)
 [![NFT-dApp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
 
 
