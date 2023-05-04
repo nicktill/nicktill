@@ -19,17 +19,5 @@ Pitt School of Computing & Information '23 🎓<br/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicktill&show_icons=true&theme=dark" alt="GitHub stats" width=400 />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicktill&show_icons=true&theme=dark" width=400  />
 </p>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 26 April 2023 - To: 03 May 2023
-
-JavaScript   13 mins         ████████▓░░░░░░░░░░░░░░░░   35.05 %
-SQL          13 mins         ████████▓░░░░░░░░░░░░░░░░   34.46 %
-Other        11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.48 %
-```
-
-<!--END_SECTION:waka-->
 <p align="center">
 	
