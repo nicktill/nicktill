@@ -5,13 +5,13 @@ Pitt School of Computing & Information '23 🎓<br/>
 📫 Contact me: ntillmann1439@gmail.com | nit36@pitt.edu <br>
 
 
-### Recent Projects + WIP:
+### Recent Projects
 
 [![YTRecap](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=ytrecap&theme=dark)](https://github.com/nicktill/ytrecap)
-[![StockPulse](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=stock-pulse&theme=dark)](https://github.com/nicktill/stock-pulse)
-[![Crypto-Tracker](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
-[![Financial-Aid-Grader](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group&theme=dark)](https://github.com/nicktill/cs1530-finance-group)
-[![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=nicktill.github.io&theme=dark)](https://github.com/nicktill/nicktill.github.io)
+[![crypto-tracker](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
+[![fincial-aid-grader](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=cs1530-finance-group&theme=dark)](https://github.com/nicktill/cs1530-finance-group)
+[![portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=nicktill.github.io&theme=dark)](https://github.com/nicktill/nicktill.github.io)
+[![translator-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=translator-app&theme=dark)](https://github.com/nicktill/translator-app)
 [![NFT-dApp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=NFT-dApp&theme=dark)](https://github.com/nicktill/NFT-dApp)
 
 
