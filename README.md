@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=nicktill&style=for-the-badge)<br>
-Pitt School of Computing & Information '23 🎓<br/>
+Software Engineer @ IBM | Pitt School of Computing & Information '23 🎓<br/>
 🧑‍💼[LinkedIn](https://www.linkedin.com/in/nicholas-tillmann-4647b7187/) 🌐[Website](https://nicktill.github.io) 📄[Resume](https://nicktill.github.io/resume.pdf)<br/>
 📫 Contact me: ntillmann1439@gmail.com 
 
