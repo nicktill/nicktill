@@ -6,7 +6,7 @@ Software Engineer @ IBM | Pitt School of Computing & Information '23 🎓<br/>
 
 
 ### Recent Projects
-[![Peerfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=peerfolio&theme=dark)](https://github.com/nicktill/peerfolio)
+[![TinyOBS](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=tinyobs&theme=dark)](https://github.com/nicktill/tinyobs)
 [![YTRecap](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=ytrecap&theme=dark)](https://github.com/nicktill/ytrecap)
 [![crypto-tracker](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=crypto-tracker&theme=dark)](https://github.com/nicktill/crypto-tracker)
 [![portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nicktill&repo=nicktill.github.io&theme=dark)](https://github.com/nicktill/nicktill.github.io)
